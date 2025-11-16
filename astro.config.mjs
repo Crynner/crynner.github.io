@@ -9,6 +9,6 @@ export default defineConfig({
   vite: {
       plugins: [tailwindcss()],
   },
-
+  site: "https://crynner.github.io/",
   integrations: [react()],
 });
