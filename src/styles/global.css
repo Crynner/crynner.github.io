@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.header-links > a {
+    @apply px-4 font-normal hover:font-bold;
+}
